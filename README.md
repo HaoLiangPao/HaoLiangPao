@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi! It's Hao here 👋
 
 <!--
-**HaoLiangPao/HaoLiangPao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hao-Liang/Hao-Liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently working at IBM Canada as a software developer, developing web tools and maintaining the continuous integration processes.
+🌱 Graduated at U of T in 2020 with a specialist of Entironmental Chemistry and a minor in Computer Sience. 
+
+Always keep learning and coding!! 🤘
+
+- 😄 Pronouns: He/Him
+- 🎓 Doing a part-time CS master at Georgia Tech ([OMSCS](https://omscs.gatech.edu/)) 👈 Check it out if you are interested, feel free to ask me anything about it!
+- 🏀 Big fan of basketball and actually any kinds of sports (e-sports too!): 🏃 🏸 🏓 🎱 🚴 🛶 ⚽ 🎮 etc.
+
+**🚀 Jump Starting...**
