@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I’m currently working at IBM Canada as a software developer, developing web tools and maintaining the continuous integration processes.
-🌱 Graduated at U of T in 2020 with a specialist of Entironmental Chemistry and a minor in Computer Sience. 
+🌱 Graduated at U of T in 2020 with a specialist of Environmental Chemistry and a minor in Computer Science. 
 
 Always keep learning and coding!! 🤘
 
